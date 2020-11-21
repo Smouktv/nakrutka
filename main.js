@@ -7,7 +7,7 @@ const { proxy } = require("./proxy.js");
 
 const glav        = 768957778//id главного админа
 var   admid       = [1044448562] //id доп. админов через запятую
-const token       = "1109393499:AAFmljTeFq_zB7tyu5nXVDP6Fr_DVrkOHq0"//токен бота
+const token       = ""//токен бота
 const channel     = "@VkNakrutkaBot" //канал бота с обновами
 const useProxy    = false //true если использовать прокси для вк
 
